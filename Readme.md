@@ -27,7 +27,7 @@
 
   
 
-<a  href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers">
+<a  href="https://github.com/Hx-Regex/DiscordGooglesheet">
 
 <img  src="https://img.shields.io/badge/version-latest-red?style=for-the-badge"  alt="node.js">
 
