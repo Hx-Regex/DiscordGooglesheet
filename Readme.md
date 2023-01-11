@@ -72,7 +72,11 @@
 ## Preview
 
 <img  src="https://cdn.discordapp.com/attachments/865607749311660042/1062767307715256391/Screenshot_1.png"/>
-<img  
+
+<img  src="https://cdn.discordapp.com/attachments/865607749311660042/1062769430163095643/image.png"/>
+
+
+  
 
   
 
