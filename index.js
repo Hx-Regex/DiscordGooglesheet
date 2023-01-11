@@ -1,6 +1,6 @@
 const { Client, GatewayIntentBits,Events} = require('discord.js');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const doc = new GoogleSpreadsheet('1fgNFCNIINjJs6vRS9zR6tipB5-BA57qvS2C8MlvFprs');
+const doc = new GoogleSpreadsheet('you sheet id here');
 
 
 const client = new Client({
