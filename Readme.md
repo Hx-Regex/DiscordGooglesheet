@@ -82,15 +82,12 @@
 
 ## Installation & Setup
 
-```
+<img  src="https://cdn.discordapp.com/attachments/865607749311660042/1062773218429128754/carbon.png"/>
+<img  
 
-npm install discord.js@latest  google-spreadsheet
-
-```
-```
-For Service_account.json Check :  https://robocorp.com/docs/development-guide/google-sheets/interacting-with-google-sheets 
-
-```
+<a href = "https://robocorp.com/docs/development-guide/google-sheets/interacting-with-google-sheets"> <img  src="https://cdn.discordapp.com/attachments/865607749311660042/1062773800078413896/carbon_1.png"/>
+<img  
+</a>
 <br  />
 
   
